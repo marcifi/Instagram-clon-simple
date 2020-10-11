@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.0-9",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "firebase": "^7.19.0",
+    "jquery": "^3.5.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "popper.js": "^1.16.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-redux-toastr": "^7.6.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-toastify": "^6.0.8"
   },
   "scripts": {
     "start": "react-scripts start",
